@@ -20,25 +20,25 @@
                         <a href="http://github.com/JamesZBL/FS-Blog" target="_blank" class="text-white">Github 项目</a>
                     </li>
                 </ul>
-                <p class="text-muted small mb-4 mb-lg-0">&copy; JamesZBL 2017-2018 All Rights Reserved. </p>
-                <p class="text-muted small mb-4 mb-lg-0">冀 ICP 备 18000182 号</p>
+                <p class="text-muted small mb-4 mb-lg-0">&copy; silence 2018 All Rights Reserved. </p>
+                <p class="text-muted small mb-4 mb-lg-0">鄂 ICP备 18026864 号</p>
             </div>
             <div class="col-lg-6 text-center text-lg-right my-auto">
                 <ul class="list-inline mb-0">
                 <#-- github -->
                     <li class="list-inline-item mr-3">
-                        <a href="http://github.com/JamesZBL" target="_blank" class="text-white">
+                        <a href="https://github.com/wenwu1114" target="_blank" class="text-white">
                             <i class="fa fa-github fa-2x fa-fw"></i>
                         </a>
                     </li>
                 <#-- qq -->
                     <li class="list-inline-item mr-3">
-                        <a href="tencent://message/?uin=1146556298&Site=在线QQ&amp;Menu=yes" class="text-white">
+                        <a href="tencent://message/?uin=1194659428&Site=在线QQ&amp;Menu=yes" class="text-white">
                             <i class="fa fa-qq fa-2x fa-fw"></i>
                         </a>
                     </li>
                 <#-- wechat -->
-                    <img id="id_img_wechat_qrcode" src="/img/wechat_qr.png" alt="Wechat" class="img_shadow"
+                    <img id="id_img_wechat_qrcode" src="/img/wechat_qr.jpg" alt="Wechat" class="img_shadow"
                          style="display:none;width: 200px;position: absolute;bottom: 50px;right: 0;">
                     <li class="list-inline-item">
                         <a class="text-white" id="id_a_wechat">
